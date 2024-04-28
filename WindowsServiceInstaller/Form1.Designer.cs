@@ -203,7 +203,7 @@
             MinimizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
+            Text = "Windows Service Manager";
             Load += Form1_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
